@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client';
-import Panel from './panel';
+import Panel from './Panel';
 
 function init() {
   const rootContainer = document.querySelector("#__root");

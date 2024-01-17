@@ -1,7 +1,7 @@
 {
   "host_permissions": [
     "*://localhost/*",
-    "https://<YOUR_CLERK_DEVELOPMENT_FRONTEND_API_GOES_HERE>/*"
+    "https://desired-racer-79.clerk.accounts.dev/*"
   ],
   "icons": {
     "32": "dev-icon-32.png",
